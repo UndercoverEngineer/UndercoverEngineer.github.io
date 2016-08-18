@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Crust is a dork!"
 date:   2016-05-20 10:02:59 -0400
 categories: jekyll update
 ---
